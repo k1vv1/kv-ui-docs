@@ -4,13 +4,12 @@
 
 ## 用法
 
-...
+```vue
 <template>
-<Button>按钮</Button>
+  <Button>按钮</Button>
 </template>
 
 <script setup>
-    // import { Button } from 'element-plus'
+// import { Button } from 'element-plus'
 </script>
-
-...
+```
