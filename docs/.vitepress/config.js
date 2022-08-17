@@ -1,4 +1,5 @@
 export default {
+  base: "/kv-ui-docs/",
   themeConfig: {
     siteTitle: "kv-ui",
     logo: "/logo.png",
