@@ -39,11 +39,11 @@ export default {
           items: [
             {
               text: "Button按钮",
-              link: "/examples/button",
+              link: "/examples/button/",
             },
             {
               text: "Icon图标",
-              link: "/examples/icon",
+              link: "/examples/icon/",
             },
           ],
         },
