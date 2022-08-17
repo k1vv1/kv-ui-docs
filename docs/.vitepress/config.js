@@ -5,7 +5,7 @@ export default {
     logo: "/logo.png",
     nav: [
       { text: "指南", link: "/guide/installation" },
-      { text: "组件", link: "/examples/button" },
+      { text: "组件", link: "/examples/button/" },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/kxxvy" }],
     sidebar: {
