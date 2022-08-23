@@ -1,12 +1,12 @@
 lockfileVersion: 5.4
 
 specifiers:
-  kv-ui-vue3: ^1.0.2
+  kv-ui-vue3: ^1.0.3
   less: ^4.1.3
   vitepress: 1.0.0-alpha.5
 
 dependencies:
-  kv-ui-vue3: 1.0.2
+  kv-ui-vue3: 1.0.3
 
 devDependencies:
   less: 4.1.3
@@ -659,8 +659,8 @@ packages:
     resolution: {integrity: sha512-DRf0QjnNeCUds3xTjKlQQ3DpJD51GvDjJfnxUVWg6PZTo2otSm+slzNAxU/35hF8/oJIKoG9slq30JYOsF2azg==}
     dev: true
 
-  /kv-ui-vue3/1.0.2:
-    resolution: {integrity: sha512-tx4IYfvYoPq/b3moyojARr9MjFWpr+owG2/ZH6Lafbah6ErSO+Fuz2k3SiG/YMkm3D8MAk2lwjmojDgIrhn93Q==}
+  /kv-ui-vue3/1.0.3:
+    resolution: {integrity: sha512-fv7hp3InfDkMaAIYwuh97E1+UvZ44m9J/gqCV9yBv+givYqTDMEkTUOX/xXP0lSaOIciULR4fTz8r84/EOICUA==}
     dev: false
 
   /less/4.1.3:
