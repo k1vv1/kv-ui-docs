@@ -16,7 +16,6 @@
     "vitepress": "1.0.0-alpha.5"
   },
   "dependencies": {
-    "element-plus": "^2.2.13",
-    "kv-ui-vue3": "^1.0.1"
+    "kv-ui-vue3": "^1.0.2"
   }
 }

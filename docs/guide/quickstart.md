@@ -4,12 +4,14 @@
 
 ## 用法
 
-```vue
+```
 <template>
   <Button>按钮</Button>
 </template>
 
 <script setup>
-// import { Button } from 'element-plus'
+
+import { Button } from 'kv-ui-vue3'
+
 </script>
 ```
